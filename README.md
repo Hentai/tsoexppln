@@ -1,2 +1,1 @@
-# tsoexppln
-The Settlers Online Expedition Planner
+# The Settlers Online Expedition Planner
