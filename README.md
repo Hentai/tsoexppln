@@ -1,2 +1,2 @@
-# The Settlers Online Expedition Planner
-![plot](/pages/app1.png)
+# Expedition Planner - The Settlers Online
+![plot](/pages/app.png)
